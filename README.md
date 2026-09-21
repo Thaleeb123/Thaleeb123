@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on [SHOE-SIZE-ESTIMATOR](https://github.com/Thaleeb123/SHOE-SIZE-ESTIMATOR)
 
-- 🌱 I’m currently learning **OPENCV, NUMPY,PYTHON**
 
 - 👯 I’m looking to collaborate on [AI-POWERED-MOUSE](https://github.com/tenzuki/AI-POWERED-MOUSE)
 
