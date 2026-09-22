@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed Thaleeb K P</h1>
-<h3 align="center">An upcoming python developer</h3>
+<h3 align="center">An upcoming flutter developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thaleeb123&label=Profile%20views&color=0e75b6&style=flat" alt="thaleeb123" /> </p>
 
